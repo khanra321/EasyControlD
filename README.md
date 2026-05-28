@@ -84,4 +84,4 @@ This project includes a dedicated build script to create a standalone, lag-free 
 - **Name:** Akash Khanra
 - **GitHub:** [@khanra321](https://github.com/khanra321)
 
-Developed with ❤️ for a seamless touchless experience.
+
