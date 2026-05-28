@@ -1,0 +1,22 @@
+# Ignore build artifacts
+build/
+
+dist/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# IDE settings
+.idea/
+
+# Executables and logs
+*.exe
+*.log
+
+# PyInstaller build files
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
